@@ -1,0 +1,92 @@
+body {
+  font-size: 80%;
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 0.15em;
+  background-color: #efefef;
+}
+.div1 {
+  text-align: center;
+}
+.ana {
+  font-size: 60px;
+  font-weight: bolder;
+  margin-top: 0px;
+  margin-bottom: 0%;
+}
+.spec {
+  margin-top: -1%;
+  font-weight: 150;
+  font-size: 35px;
+}
+.the {
+  font-size: 30px;
+  margin-bottom: -1%;
+  font-weight: 100;
+  padding-left: 10px;
+}
+.table {
+  width: 80%;
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
+  padding-top: 10px;
+  text-align: center;
+  padding-bottom: 10px;
+  margin: auto;
+}
+.img1 {
+  padding-left: 150px;
+  width: 80%;
+  height: 200px;
+}
+.p {
+  font-weight: bold;
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: red;
+  text-shadow: 2px 2px 1px yellow;
+  font-size: medium;
+}
+.bgimage {
+  background-size: cover;
+  background-repeat: no repeat;
+}
+.img2 {
+  height: 200px;
+  width: 20%;
+  margin-left: 150px;
+}
+.text {
+  padding-left: 450px;
+  color: white;
+  margin-top: -130px;
+}
+.repair {
+  float: right;
+  height: 250px;
+  margin-top: -60px;
+}
+.keys {
+  padding-left: 20px;
+}
+.arrow {
+  width: 20%;
+  padding-left: 600px;
+  margin-top: -200px;
+}
+.emoji {
+  float: right;
+  margin-top: -200px;
+  width: 350px;
+  height: 400px;
+}
+.about {
+  padding-left: 70px;
+}
+.end {
+  border-style: double;
+}
